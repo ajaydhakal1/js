@@ -1,0 +1,38 @@
+body{
+    padding: 20px;
+}
+
+#change{
+    text-align: right;
+}
+.btn{
+height: 20px;
+width: 20px;
+border: 1px solid red;
+border-radius: 20px;
+display: inline-block;
+cursor: pointer;
+}
+#white{
+background-color: #fff;
+}
+#aqua{
+background-color: aqua;
+}
+#black{
+background-color: black;
+}
+#violet{
+background-color: violet;
+}
+.img{
+    text-align: center;
+    height: 100%;
+    width: auto;
+}
+#pg{
+    font-family: 'poppins', 'sans-serif';
+    text-align: justify;
+    font-size: 20px;
+
+}
